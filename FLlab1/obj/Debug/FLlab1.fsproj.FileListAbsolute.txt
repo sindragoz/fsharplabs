@@ -1,0 +1,9 @@
+c:\users\sindragoz\documents\visual studio 2015\Projects\FLlab1\FLlab1\bin\Debug\FLlab1.exe.config
+c:\users\sindragoz\documents\visual studio 2015\Projects\FLlab1\FLlab1\bin\Debug\FLlab1.XML
+c:\users\sindragoz\documents\visual studio 2015\Projects\FLlab1\FLlab1\bin\Debug\FLlab1.exe
+c:\users\sindragoz\documents\visual studio 2015\Projects\FLlab1\FLlab1\bin\Debug\FLlab1.pdb
+c:\users\sindragoz\documents\visual studio 2015\Projects\FLlab1\FLlab1\bin\Debug\FSharp.Core.dll
+c:\users\sindragoz\documents\visual studio 2015\Projects\FLlab1\FLlab1\bin\Debug\FSharp.Core.xml
+c:\users\sindragoz\documents\visual studio 2015\Projects\FLlab1\FLlab1\bin\Debug\ru\FSharp.Core.resources.dll
+c:\users\sindragoz\documents\visual studio 2015\Projects\FLlab1\FLlab1\obj\Debug\FLlab1.exe
+c:\users\sindragoz\documents\visual studio 2015\Projects\FLlab1\FLlab1\obj\Debug\FLlab1.pdb
